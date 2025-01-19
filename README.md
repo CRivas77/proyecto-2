@@ -40,7 +40,7 @@ El dataset de calidad de vinos fue seleccionado debido a sus características bi
 
 ## Instrucciones para Ejecutar  
 1. Clonar el repositorio desde GitHub.  
-2. Copiar todos los datasets de la carpeta "datasets" y pegarlos junto a los archivor .ipynb de la carpeta EDA
+2. Copiar todos los datasets de la carpeta "datasets" y pegarlos junto a los archivo .ipynb de la carpeta EDA
 2. Explorar los notebooks en la carpeta `/EDA` para comprender los análisis iniciales realizados en los cuatro datasets.  
 
 ## Autores  
